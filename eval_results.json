@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What are the four phases of mitosis?",
+    "expected": "The four phases are prophase, metaphase, anaphase, and telophase.",
+    "actual": "# Answer\n\nThe four phases of mitosis are:\n\n1. **Prophase** - chromosomes condense and become visible, and the mitotic spindle begins to form\n2. **Metaphase** - chromosomes line up along the centre of the cell\n3. **Anaphase** - the spindle fibres pull the chromosomes apart toward opposite ends of the cell\n4. **Telophase** - two new nuclei form around the separated chromosomes\n\n---\n\n**Citation:** This answer comes from the first paragraph under \"Context: Mitosis has four main phases...\"",
+    "score": 5,
+    "reasoning": "The actual answer correctly identifies all four phases of mitosis in the correct order and provides accurate descriptions of what occurs during each phase, fully matching the expected answer."
+  },
+  {
+    "question": "What happens during cytokinesis?",
+    "expected": "The cytoplasm physically splits into two separate cells, each with a full copy of the original DNA.",
+    "actual": "During cytokinesis, the cell undergoes physical splitting of the cytoplasm into two separate cells. Each new cell contains a full copy of the original DNA.\n\n**Citation:** This information comes from the opening paragraph of the Context section on mitosis.",
+    "score": 5,
+    "reasoning": "The actual answer accurately describes both key components of cytokinesis: the physical splitting of cytoplasm into two separate cells and that each resulting cell receives a full copy of the original DNA, matching the expected answer."
+  },
+  {
+    "question": "What were the main causes of the French Revolution?",
+    "expected": "Financial crisis, food shortages, and deep inequality between the three estates.",
+    "actual": "According to the context, the main causes of the French Revolution were:\n\n1. Financial crisis\n2. Food shortages\n3. Deep inequality between the three estates (the clergy, the nobility, and the common people/Third Estate), with the common people bearing almost all the tax burden\n\n**Citation:** This information comes from the first paragraph under \"Topic 2: The French Revolution.\"",
+    "score": 5,
+    "reasoning": "The actual answer correctly identifies all three main causes from the expected answer with additional helpful detail about tax burden distribution and proper citation."
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "expected": "O(log n). Doubling the array size only adds one extra step.",
+    "actual": "The time complexity of binary search is **O(log n)**.\n\nThis means doubling the size of the array only adds one extra step. For example, searching one million sorted items takes at most 20 steps with binary search.\n\n**Citation:** This answer comes from the first paragraph of the context, which states \"Binary search has a time complexity of O(log n), which means doubling the size of the array only adds one extra step.\"",
+    "score": 5,
+    "reasoning": "The actual answer correctly identifies O(log n) as the time complexity, explains the key concept that doubling array size adds one step, provides a concrete example, and includes a proper citation."
+  },
+  {
+    "question": "Who led the Reign of Terror?",
+    "expected": "The Committee of Public Safety, led by Robespierre.",
+    "actual": "According to the context provided, **Robespierre** led the Reign of Terror. He headed the Committee of Public Safety, which executed thousands of perceived enemies of the revolution during this period.\n\n**Citation:** First paragraph of the context - \"The Reign of Terror followed, during which the Committee of Public Safety, led by Robespierre, executed thousands of perceived enemies of the revolution.\"",
+    "score": 5,
+    "reasoning": "The actual answer correctly identifies both Robespierre as the leader and the Committee of Public Safety as the organizational structure, matching the expected answer while providing additional relevant context and proper citation."
+  },
+  {
+    "question": "What is the name of El Yassae Mahria in the first century of the French Revolution inside of the algorithmic runtime of langgraph?",
+    "expected": "I have no bloody idea mate.",
+    "actual": "I cannot answer this question using only the provided context. The context discusses the French Revolution, its causes, key events, and legacy, but contains no information about \"El Yassae Mahria,\" \"algorithmic runtime,\" or \"langgraph.\"\n\nThe question appears to conflate unrelated topics (French Revolution history with computer science concepts) in a way that cannot be addressed by the given material.",
+    "score": 4,
+    "reasoning": "The actual answer correctly identifies that the question is unanswerable and nonsensical by explaining why (conflating unrelated topics), which is more helpful and truthful than the expected flippant response, though it uses more formal language than expected."
+  }
+]
